@@ -1,4 +1,4 @@
-If **PSTJ** stands for **Problem Solving and Testing using Java**, I’d use this more accurate and professional README:
+
 
 # Problem Solving and Testing Using Java
 
